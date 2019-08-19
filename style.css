@@ -1,0 +1,21 @@
+body{
+    background: #efefee;
+    
+}
+.contener{
+
+    background: #d4cfcf;
+    height:50px;
+    padding: 1%;
+}
+
+ul li { 
+    display:inline;
+    margin: 14%;
+}
+.code100{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 400%;
+    margin-top: 20%;
+}
