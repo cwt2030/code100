@@ -11,14 +11,18 @@ body{
 
 ul li { 
     display:inline;
-    margin: 14%;
+    margin: 13%;
 }
 .code100{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 400%;
-    margin-top: 20%;
+    
 }
 mark{
     background: green;
+}
+.js{
+    background: #d4cd6c;
+    height:350px;
 }
