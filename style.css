@@ -24,6 +24,7 @@ ul li {
 }
 mark{
     background: green;
+    color: #fff;
 }
 .js{
     background: #d4cd6c;
