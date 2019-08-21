@@ -12,8 +12,11 @@ body{
 ul li { 
     display:inline;
     margin: 13%;
+    text-decoration:none;
+
+
 }
-.code100{
+.code100 h3 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 400%;
@@ -26,3 +29,9 @@ mark{
     background: #d4cd6c;
     height:350px;
 }
+.code100 h1 {
+    text-align: center;
+    text-decoration:sandybrown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+
