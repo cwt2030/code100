@@ -1,3 +1,8 @@
- document.write(" مرحبا بكم عالم جافاسكريبت")
+var x =5
+var y =4
+var m =x*y
 
- document.write(5+6)
+document.write("العدد ٥*٤ <br> يساوي"+ "<br>"+ m);
+
+
+
