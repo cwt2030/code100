@@ -1,14 +1,20 @@
+////Day number 4 ( variabls)
+/* 
 var x =5
 var y =4
 var m =x*y
-
 document.write("العدد ٥*٤ <br> يساوي"+ "<br>"+ m);
+*/
+/////Day number 5 (new line )
+/* 
 document.write("Hello, I will go to next line<br>")
 document.write("now I am in the new line<br>")
-
+*/
+/////Day number 6 (new function)
+/*
 function _test(){
     document.write("welcom to my first function ")
 }
 _test()
-
+*/
 
