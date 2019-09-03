@@ -18,7 +18,13 @@ function _test(){
 _test()
 */
 /////Day number 7 (Words Reserved)
+/*
 function Words_Reserved(){
 document.write("this words not used in Variable Ex void - this - class - for - whille -import ")
 }
 Words_Reserved()
+*/
+/////Day number 8 (semicolon)
+var a = 2 ; var b =2 ; var c = a+b;
+document.write(c)
+
