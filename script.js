@@ -25,6 +25,13 @@ document.write("this words not used in Variable Ex void - this - class - for - w
 Words_Reserved()
 */
 /////Day number 8 (semicolon)
+/*
 var a = 2 ; var b =2 ; var c = a+b;
 document.write(c)
+*/
+/////Day number 9 (  Math.max(x,y,z) // وسيط اكبر / من العمليات الرياضية)
 
+var x=10 ;y=20 ;z=30
+
+var a = Math.max(x,y,z)
+document.write(a)
