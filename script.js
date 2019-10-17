@@ -46,9 +46,9 @@ document.write(a)
 /*
 console.log(new Date())
 */
- /////Day number 13 ( String )
+ /////Day number 13  ( String )
 
- var b="welcome" ,x="hello" ;
+ var b="welcome" ,x="hello " ;
 document.writeln(b.toUpperCase())
 document.write("<br>");
 var b="welcome" ,x="hello" ;
